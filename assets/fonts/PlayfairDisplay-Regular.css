@@ -1,0 +1,11 @@
+@font-face {
+    font-family:"Playfair Display";
+
+    src:url("PlayfairDisplay-Regular.woff2") format("woff2"),
+    	url("PlayfairDisplay-Regular.woff") format("woff"),
+    	url("PlayfairDisplay-Regular.otf") format("opentype");
+
+    font-style: normal;
+    font-weight: 400;
+}
+        

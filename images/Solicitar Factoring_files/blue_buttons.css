@@ -1,0 +1,29 @@
+/* Copyright IBM Corp. 2010 */
+/* Blue gradient buttons */
+.wpfBlueButton:hover,.wpfBlueButton:focus{
+  border-color:#10395F;
+}
+.wpfBlueButton:hover,.wpfBlueButton:focus{
+  border-color:#10395F;
+}
+input.wpfBlueButton, button.wpfBlueButton{
+  margin-right:15px;
+}
+input.wpfBlueButton, button.wpfBlueButton{
+  cursor:pointer;
+  padding:2px 7px 3px;
+}
+.wpfBlueButton{
+  background-color:#2C86EB;
+  background-image:url(../images/button/blue_grad1.png);
+  color:#FFFFFF;
+  border-color:#2F76B9;
+  font-size:0.9em;
+  line-height:1.7em;
+  background-position:left top;
+  background-repeat:repeat-x;
+  font-weight:bold;
+  border-style:solid;
+  border-width:1px;
+  text-align:center !important;
+}
